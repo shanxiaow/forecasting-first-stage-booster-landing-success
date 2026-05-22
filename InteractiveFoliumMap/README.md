@@ -40,11 +40,11 @@ The notebook automatically downloads the dataset on first run:
 The notebook saves the following interactive HTML maps to your working directory. Open them in any browser to explore:
 
 | File | Description |
-|------|-------------|
-| [map_marker.html](https://htmlpreview.github.io/?https://github.com/shanxiaow/ForecastingFirstStageBoosterLandingSuccess/blob/main/InteractiveFoliumMap/map_marker.html) | All launch sites with success (green) / failure (red) markers clustered by site |
-| [map_coast.html](https://htmlpreview.github.io/?https://github.com/shanxiaow/ForecastingFirstStageBoosterLandingSuccess/blob/main/InteractiveFoliumMap/map_coast.html) | Distance from KSC LC-39A to the closest coastline (~6.41 km) |
-| [map_city.html](https://htmlpreview.github.io/?https://github.com/shanxiaow/ForecastingFirstStageBoosterLandingSuccess/blob/main/InteractiveFoliumMap/map_city.html) | Distance from KSC LC-39A to the closest city (~16.31 km) |
-| [map_railway.html](https://htmlpreview.github.io/?https://github.com/shanxiaow/ForecastingFirstStageBoosterLandingSuccess/blob/main/InteractiveFoliumMap/map_railway.html) | Distance from KSC LC-39A to the closest railway (~6.03 km) |
+|-------|-------------|
+| [map_marker.html](https://shanxiaow.github.io/ForecastingFirstStageBoosterLandingSuccess/InteractiveFoliumMap/map_marker.html) | All launch sites with success (green) / failure (red) markers clustered by site |
+| [map_coast.html](https://shanxiaow.github.io/ForecastingFirstStageBoosterLandingSuccess/InteractiveFoliumMap/map_coast.html) | Distance from KSC LC-39A to the closest coastline (~6.41 km) |
+| [map_city.html](https://shanxiaow.github.io/ForecastingFirstStageBoosterLandingSuccess/InteractiveFoliumMap/map_city.html) | Distance from KSC LC-39A to the closest city (~16.31 km) |
+| [map_railway.html](https://shanxiaow.github.io/ForecastingFirstStageBoosterLandingSuccess/InteractiveFoliumMap/map_railway.html) | Distance from KSC LC-39A to the closest railway (~6.03 km) |
 
 ---
 
